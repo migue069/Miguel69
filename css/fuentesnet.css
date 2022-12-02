@@ -1,5 +1,6 @@
 body{
-    background-image: url(https://isquad.tv/wp-content/uploads/2018/08/netflix-background.jpg);
+    background-image: url("../imagenes/lol.png");
+    background-size: auto;
 }
 .box-1{
     display: flex;
@@ -7,8 +8,8 @@ body{
     align-items: center;
     padding-top: 0%;
 }
-.bebas-font {
-    color: red;
+.bebas-font{
+    color: crimson;
     font-family: 'Bebas Neue';
     font-weight: 600;
     font-size: 700%;
@@ -26,4 +27,3 @@ body{
          url('../fonts/bebas-neue-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bebas-neue-v9-latin-regular.svg#BebasNeue') format('svg'); /* Legacy iOS */
   }
-  
